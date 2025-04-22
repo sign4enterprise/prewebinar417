@@ -3,3 +3,4 @@ mountpoints:
     url: "https://drive.google.com/drive/folders/1mA_uDQvrNEofLtzrft5MmTyP99rS4Pbd"
     type: "markup"
     suffix: ".html"
+    allow-form-submission: true
